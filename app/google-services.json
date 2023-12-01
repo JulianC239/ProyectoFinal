@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1006644031765",
+    "firebase_url": "https://proyecto-46dff-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-46dff",
+    "storage_bucket": "proyecto-46dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006644031765:android:9fe18b34b8fc7a38c5791c",
+        "android_client_info": {
+          "package_name": "xyz.unalPOO.Ultrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfo-hPaQKn_NnOKKxLp70Ca9GQIX1lN8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006644031765:android:75adebd3556e17e8c5791c",
+        "android_client_info": {
+          "package_name": "xyz.unalpoo.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfo-hPaQKn_NnOKKxLp70Ca9GQIX1lN8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006644031765:android:d81df32397ded8dcc5791c",
+        "android_client_info": {
+          "package_name": "xyz.unalpoo.proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfo-hPaQKn_NnOKKxLp70Ca9GQIX1lN8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

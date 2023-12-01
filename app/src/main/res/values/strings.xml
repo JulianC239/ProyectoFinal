@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UlTRAIN</string>
+    <string name="btn_iniciar_pantalla">Iniciar Sesion</string>
+    <string name="btn_registrar_pantalla">Registrarse</string>
+
+    <string name="btn_iniciar_Sesion">Iniciar Sesion</string>
+    <string name="btn_Registrarse">Registrarse</string>
+    <string name="btn_noticias">Noticias</string>
+    <string name="btn_tipos">Tipos de ganado</string>
+    <string name="btn_razas">Razas de ganado</string>
+    <string name="btn_consejos">Condejos</string>
+    <string name="btn_libros">Libros Gratis</string>
+
+    <string name="Descripcion_noticias">Las ultimas noticias sobre ganaderia</string>
+
+    <string name="btn_menu">Menu</string>
+
+    <string name="btn_opcion_menu">Ir</string>
+
+    <string name="text_menu1">En esta parte se encontrara el modo practica</string>
+    <string name="text_menu2">En esta parte se encontrara el reppertorio acerca cont odo lo referente a ultimate</string>
+
+    <string name="btn_opcion_practica">Que quieres practicar?</string>
+
+    <string name="btn_opcion_Backhand">BackHand</string>
+    <string name="btn_opcion_Forhand">ForHand</string>
+
+</resources>
